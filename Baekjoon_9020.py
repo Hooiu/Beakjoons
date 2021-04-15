@@ -53,3 +53,5 @@ for N in N_list:
 
 
 print('time :', time.time() - start)
+
+#끝!
